@@ -1,4 +1,4 @@
-# Proyecto inicial - Reforzamiento de JavaScript
+# Proyecto básico webpack HTML-CSS
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
